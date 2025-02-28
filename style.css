@@ -4,11 +4,8 @@ html {
     padding: 0;
 }
 
-.container {}
-
 .cointainer-navbar {
     background-color: #333;
-    widht: 100%;
     height: 10vh;
 }
 
@@ -30,7 +27,7 @@ html {
 .li-navbar:hover {
     background-color: tomato;
     transition: .5s ease-in-out;
-    transition-delay: .3s:
+    transition-delay: .3s;
     border-radius: 8px;
 }
 
@@ -51,7 +48,6 @@ html {
 .a-content {
     background-color: black;
     color: white;
-    widht: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -59,7 +55,6 @@ html {
 }
 
 .img-content {
-    widht: 100%;
     height: 100%;
 }
 
